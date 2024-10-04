@@ -139,7 +139,8 @@ ol {
   block-size: 19px;
 }
 
-.search-form__label:hover, .search-form__label-text:hover {
+.search-form__label:hover,
+.search-form__label-text:hover {
   text-decoration: underline 1px #fff;
   text-underline-offset: 5px;
 }
